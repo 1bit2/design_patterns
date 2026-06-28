@@ -1,0 +1,13 @@
+# 编译产物
+*.out
+*.exe
+
+# 项目编译输出（无扩展名的可执行文件，按目录列出）
+behavioral/iterator/iterator_storage_demo
+behavioral/memento/memento
+behavioral/command/command
+behavioral/visitor/visitor
+
+# CMake 构建目录
+build/
+cmake-build-*/

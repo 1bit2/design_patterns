@@ -10,13 +10,13 @@
 | [中介者 (Mediator)](mediator/) | 中介集中管理多对象通信 | ✅ 已完成 |
 | 观察者 (Observer) | 一对多依赖，状态变更自动通知 | 待补充 |
 | 策略 (Strategy) | 算法族可互换 | 待补充 |
-| 命令 (Command) | 把请求封装为对象 | 待补充 |
+| [命令 (Command)](command/) | 把请求封装为对象，可参数化/撤销/组合 | ✅ 已完成 |
 | 模板方法 (Template Method) | 定义骨架，子类填充步骤 | 待补充 |
-| 迭代器 (Iterator) | 顺序访问聚合元素 | 待补充 |
+| [迭代器 (Iterator)](iterator/) | 顺序访问聚合元素 | ✅ 已完成 |
 | 状态 (State) | 状态改变行为 | 待补充 |
 | 职责链 (Chain of Responsibility) | 请求沿链传递直到有人处理 | 待补充 |
-| 访问者 (Visitor) | 不修改类的前提下新增操作 | 待补充 |
-| 备忘录 (Memento) | 保存和恢复对象状态 | 待补充 |
+| [访问者 (Visitor)](visitor/) | 不修改类的前提下新增操作 | ✅ 已完成 |
+| [备忘录 (Memento)](memento/) | 保存和恢复对象状态 | ✅ 已完成 |
 | 解释器 (Interpreter) | 定义语言语法并解释执行 | 待补充 |
 
 ## 核心思想
